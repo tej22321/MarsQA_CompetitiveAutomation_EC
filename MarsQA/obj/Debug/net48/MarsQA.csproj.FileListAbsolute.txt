@@ -1,0 +1,7 @@
+C:\IndustryConnect\MarsQA\MarsQA\obj\Debug\net48\MarsQA.csproj.AssemblyReference.cache
+C:\IndustryConnect\MarsQA\MarsQA\obj\Debug\net48\MarsQA.csproj.SuggestedBindingRedirects.cache
+C:\IndustryConnect\MarsQA\MarsQA\obj\Debug\net48\MarsQA.dll.config
+C:\IndustryConnect\MarsQA\MarsQA\obj\Debug\net48\MarsQA.GeneratedMSBuildEditorConfig.editorconfig
+C:\IndustryConnect\MarsQA\MarsQA\obj\Debug\net48\MarsQA.AssemblyInfoInputs.cache
+C:\IndustryConnect\MarsQA\MarsQA\obj\Debug\net48\MarsQA.AssemblyInfo.cs
+C:\IndustryConnect\MarsQA\MarsQA\obj\Debug\net48\MarsQA.csproj.CoreCompileInputs.cache

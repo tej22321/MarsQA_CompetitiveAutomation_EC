@@ -1,0 +1,181 @@
+﻿{
+  "education": [
+    {
+      "index": "0",
+      "instituteName": "DMS",
+      "country": "India",
+      "title": "B.A",
+      "degree": "Btech",
+      "yearOfGraduation": "2012"
+    },
+    {
+      "index": "1",
+      "instituteName": "dms",
+      "country": "India",
+      "title": "B.A",
+      "degree": "btech",
+      "yearOfGraduation": "2012"
+    },
+    {
+      "index": "2",
+      "instituteName": "1234",
+      "country": "India",
+      "title": "B.A",
+      "degree": "btech",
+      "yearOfGraduation": "2012"
+    },
+    {
+      "index": "3",
+      "instituteName": "df345",
+      "country": "India",
+      "title": "B.A",
+      "degree": "btech",
+      "yearOfGraduation": "2012"
+    },
+    {
+      "index": "4",
+      "instituteName": "@#$%^",
+      "country": "India",
+      "title": "B.A",
+      "degree": "btech",
+      "yearOfGraduation": "2012"
+    },
+    {
+      "index": "5",
+      "instituteName": "",
+      "country": "India",
+      "title": "B.A",
+      "degree": "btech",
+      "yearOfGraduation": "2012"
+    },
+    {
+      "index": "6",
+      "instituteName": "null",
+      "country": "India",
+      "title": "B.A",
+      "degree": "btech",
+      "yearOfGraduation": "2012"
+    },
+    {
+      "index": "7",
+      "instituteName": "spacebar",
+      "country": "India",
+      "title": "B.A",
+      "degree": "btech",
+      "yearOfGraduation": "2012"
+    },
+    {
+      "index": "8",
+      "instituteName": "longString",
+      "country": "India",
+      "title": "B.A",
+      "degree": "btech",
+      "yearOfGraduation": "2012"
+    },
+    {
+      "index": "9",
+      "instituteName": "DMS",
+      "country": "India",
+      "title": "B.A",
+      "degree": "1234",
+      "yearOfGraduation": "2012"
+    },
+    {
+      "index": "10",
+      "instituteName": "DMS",
+      "country": "India",
+      "title": "B.A",
+      "degree": "sdf2345",
+      "yearOfGraduation": "2012"
+    },
+    {
+      "index": "11",
+      "instituteName": "DMS",
+      "country": "India",
+      "title": "B.A",
+      "degree": "@#$%^&*",
+      "yearOfGraduation": "2012"
+    },
+    {
+      "index": "12",
+      "instituteName": "DMS",
+      "country": "India",
+      "title": "B.A",
+      "degree": "",
+      "yearOfGraduation": "2012"
+    },
+    {
+      "index": "13",
+      "instituteName": "DMS",
+      "country": "India",
+      "title": "B.A",
+      "degree": "NULL",
+      "yearOfGraduation": "2012"
+    },
+    {
+      "index": "14",
+      "instituteName": "DMS",
+      "country": "India",
+      "title": "B.A",
+      "degree": "spacebar",
+      "yearOfGraduation": "2012"
+    },
+    {
+      "index": "15",
+      "instituteName": "DMS",
+      "country": "India",
+      "title": "B.A",
+      "degree": "longString",
+      "yearOfGraduation": "2012"
+    },
+    {
+      "index": "16",
+      "instituteName": "DMS",
+      "country": "arrows",
+      "title": "B.A",
+      "degree": "adf",
+      "yearOfGraduation": "2012"
+    },
+    {
+      "index": "17",
+      "instituteName": "DMS",
+      "country": "keyboard",
+      "title": "B.A",
+      "degree": "adf",
+      "yearOfGraduation": "2012"
+    },
+    {
+      "index": "18",
+      "instituteName": "DMS",
+      "country": "India",
+      "title": "arrows",
+      "degree": "adf",
+      "yearOfGraduation": "2012"
+    },
+    {
+      "index": "19",
+      "instituteName": "DMS",
+      "country": "India",
+      "title": "keyboard",
+      "degree": "adf",
+      "yearOfGraduation": "2012"
+    },
+    {
+      "index": "20",
+      "instituteName": "DMS",
+      "country": "India",
+      "title": "B.A",
+      "degree": "adf",
+      "yearOfGraduation": "keyboard"
+    },
+    {
+      "index": "20",
+      "instituteName": "DMS",
+      "country": "India",
+      "title": "B.A",
+      "degree": "adf",
+      "yearOfGraduation": "arrows"
+    }
+  ]
+
+}

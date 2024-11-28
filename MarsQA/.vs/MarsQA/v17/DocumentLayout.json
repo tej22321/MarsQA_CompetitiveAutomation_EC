@@ -1,0 +1,333 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|c:\\industryconnect\\marsqa_competitiveautomation_ec\\marsqa\\specflowpages\\educationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|solutionrelative:specflowpages\\educationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|c:\\industryconnect\\marsqa_competitiveautomation_ec\\marsqa\\data\\educationtestdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|solutionrelative:data\\educationtestdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|c:\\industryconnect\\marsqa_competitiveautomation_ec\\marsqa\\specflowpages\\certificationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|solutionrelative:specflowpages\\certificationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|c:\\industryconnect\\marsqa_competitiveautomation_ec\\marsqa\\stepdefinitions\\educationstepdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|solutionrelative:stepdefinitions\\educationstepdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|c:\\industryconnect\\marsqa_competitiveautomation_ec\\marsqa\\features\\education.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|solutionrelative:features\\education.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|c:\\industryconnect\\marsqa_competitiveautomation_ec\\marsqa\\helpers\\waitutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|solutionrelative:helpers\\waitutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|c:\\industryconnect\\marsqa_competitiveautomation_ec\\marsqa\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|solutionrelative:hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|c:\\industryconnect\\marsqa_competitiveautomation_ec\\marsqa\\features\\certification.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|solutionrelative:features\\certification.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|c:\\industryconnect\\marsqa_competitiveautomation_ec\\marsqa\\stepdefinitions\\certificationstepdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|solutionrelative:stepdefinitions\\certificationstepdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|c:\\industryconnect\\marsqa_competitiveautomation_ec\\marsqa\\data\\certificationtestdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|solutionrelative:data\\certificationtestdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|c:\\industryconnect\\marsqa_competitiveautomation_ec\\marsqa\\data\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|solutionrelative:data\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|c:\\industryconnect\\marsqa_competitiveautomation_ec\\marsqa\\data\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|solutionrelative:data\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|c:\\industryconnect\\marsqa_competitiveautomation_ec\\marsqa\\data\\jsonreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|solutionrelative:data\\jsonreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|c:\\industryconnect\\marsqa_competitiveautomation_ec\\marsqa\\drivers\\commondriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|solutionrelative:drivers\\commondriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|c:\\industryconnect\\marsqa_competitiveautomation_ec\\marsqa\\marsqa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|solutionrelative:marsqa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|c:\\industryconnect\\marsqa_competitiveautomation_ec\\marsqa\\specflowpages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|solutionrelative:specflowpages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|c:\\industryconnect\\marsqa_competitiveautomation_ec\\marsqa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|c:\\industryconnect\\marsqa_competitiveautomation_ec\\marsqa\\implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|solutionrelative:implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|c:\\industryconnect\\marsqa_competitiveautomation_ec\\marsqa\\configuration\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DD332F-6500-46D3-92F3-897240279A1E}|MarsQA.csproj|solutionrelative:configuration\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CertificationPage.cs",
+              "DocumentMoniker": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\SpecflowPages\\CertificationPage.cs",
+              "RelativeDocumentMoniker": "SpecflowPages\\CertificationPage.cs",
+              "ToolTip": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\SpecflowPages\\CertificationPage.cs",
+              "RelativeToolTip": "SpecflowPages\\CertificationPage.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAAALAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T00:09:15.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EducationStepDefinition.cs",
+              "DocumentMoniker": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\StepDefinitions\\EducationStepDefinition.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\EducationStepDefinition.cs",
+              "ToolTip": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\StepDefinitions\\EducationStepDefinition.cs",
+              "RelativeToolTip": "StepDefinitions\\EducationStepDefinition.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAA5wCsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T23:16:24.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Education.feature",
+              "DocumentMoniker": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\Features\\Education.feature",
+              "RelativeDocumentMoniker": "Features\\Education.feature",
+              "ToolTip": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\Features\\Education.feature",
+              "RelativeToolTip": "Features\\Education.feature",
+              "ViewState": "AQIAABEAAAAAAAAAAAAiwBkAAACKAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQWSURBVDhPdVRLb1tFFP7mPnztaydObOcJcWolhDRpVURQAyWNWgItsGlZ0YoFEgseKxCCFWv4AWzYIxAgQVRVlSo1En1IoDRtSUEpRFWUd9I4DztOff269r18c\u002B0oSRGf9dkzZ2Y\u002BnznnzBH4P3zRGMARXxtHcbKZdMg1uFjCVCmJr9IFzg/Cdd2Dgm\u002BQnylBTISH0Kydhakco0WKGXKZKFDwEfLOJObLV/BN5h42nXxtzYNa\u002BwVeNBScNRPoMs5BNd6FppwUEM8qQmlz4UYBEVGFGhNCtLo6vW5UutGglNDvS8GvZLFc9mT2BF8zWzFgjiCjvwdXDAc1M9JX36MnQp0ia\u002BfQZrbgWEOf8KuGb7OYikARXYjrIXTrj7DjJHG/VJQyVcGYIvC8McwNFzkbUaCorf5mXIifx\u002BmWE1jMrWAwOoC34\u002BcYJuBu\u002Bk95SiEPkRmslZcZglVYrmcEPgqbGPSf4ui04F/XayHYbhl\u002BNYBOM46j4T6ciL2AOtrLtO\u002BDTp7BkH8IH4c9g\u002BZ9G6IPmkj4FX/ombqE\u002BLT3Q6zk1rBgLeO3jdtYyK9gPrcIh\u002B7NZhe8I8RuQp/msJszxhlbVQ\u002BBLrKpgopquzbXBNoDLUjbGUykJykyjzup\u002BxjfuoclXv8JBJj5ZhYVhatxkIiQpu2UsVFMYWLzDyQLG8iWLY9WOYd0aRu2U0LMiKA7lEDMFwWzXj0NBMmYHOwKepCeyW8Zv216Z9kWr\u002BlwEyPLT6PRgJebjuNi51s42TQIkzGuQep44dsVXCctUwugP9yDT3rex6stwzgUiiOshRHW6xE1GuEXfnQE2vFm6wj3fIAIbTXI4k7LQdXnVwIKIuoAX87hfKUokoV13FwfR4f5FE41vQSfZuB49DnPq8cMwZXVa5hgTKcy0yg5JabdHUfaGcWveavq4c38Iubsv1kSy\u002BvFTVxekQcmIT3ua\u002BiBrugIqkGWz2Hv6tfXf8fY2g0vtsQyZu0ZaqTkpOrhbLmIuOZHlx7lM0sUnILuU3TRHmhFzsnhFr3N2DsIaUHMsXymMv\u002BAe1jisijdG7hTuopfrIdSaq85vBOqxxnzdejic1r7afGxLoWqKEJ6ItPiU31MUoXZtinmdZ8k7/wlruV/xvfZDSmz95YXyzYsZw1HjQc8LYu0oeJWZCnVEud6YrTJiRTLkF/jp\u002BxVjLHyi/JR7heUhu1KgcHdRK8xx5UZWmXm5PNqkltqkE3gIUrudxQbxe3CHFIs0Br2BCUsiiYZT00sMUnzvOUOGlVZG0dImYElchxblcu4lR/FWG4GKdfrMrs4KCghl/8quWxHWTbZAnp9IVpkV5nmta/zBj/ibukSvn28yr3e/ffjYMd\u002BEhfqwjgf7OConZyGqCRxKVfED5a3/F8A/wKUXZtBUQWfiQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-10-22T23:30:29.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EducationPage.cs",
+              "DocumentMoniker": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\SpecflowPages\\EducationPage.cs",
+              "RelativeDocumentMoniker": "SpecflowPages\\EducationPage.cs",
+              "ToolTip": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\SpecflowPages\\EducationPage.cs",
+              "RelativeToolTip": "SpecflowPages\\EducationPage.cs",
+              "ViewState": "AQIAABEBAAAAAAAAAAAcwBkBAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:02:48.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EducationTestData.json",
+              "DocumentMoniker": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\Data\\EducationTestData.json",
+              "RelativeDocumentMoniker": "Data\\EducationTestData.json",
+              "ToolTip": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\Data\\EducationTestData.json",
+              "RelativeToolTip": "Data\\EducationTestData.json",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAcwLAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T02:49:47.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WaitUtils.cs",
+              "DocumentMoniker": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\Helpers\\WaitUtils.cs",
+              "RelativeDocumentMoniker": "Helpers\\WaitUtils.cs",
+              "ToolTip": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\Helpers\\WaitUtils.cs",
+              "RelativeToolTip": "Helpers\\WaitUtils.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAUwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:50:06.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hooks.cs",
+              "DocumentMoniker": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\Hooks\\Hooks.cs",
+              "RelativeDocumentMoniker": "Hooks\\Hooks.cs",
+              "ToolTip": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\Hooks\\Hooks.cs",
+              "RelativeToolTip": "Hooks\\Hooks.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T02:31:10.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Certification.feature",
+              "DocumentMoniker": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\Features\\Certification.feature",
+              "RelativeDocumentMoniker": "Features\\Certification.feature",
+              "ToolTip": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\Features\\Certification.feature",
+              "RelativeToolTip": "Features\\Certification.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAlAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQWSURBVDhPdVRLb1tFFP7mPnztaydObOcJcWolhDRpVURQAyWNWgItsGlZ0YoFEgseKxCCFWv4AWzYIxAgQVRVlSo1En1IoDRtSUEpRFWUd9I4DztOff269r18c\u002B0oSRGf9dkzZ2Y\u002BnznnzBH4P3zRGMARXxtHcbKZdMg1uFjCVCmJr9IFzg/Cdd2Dgm\u002BQnylBTISH0Kydhakco0WKGXKZKFDwEfLOJObLV/BN5h42nXxtzYNa\u002BwVeNBScNRPoMs5BNd6FppwUEM8qQmlz4UYBEVGFGhNCtLo6vW5UutGglNDvS8GvZLFc9mT2BF8zWzFgjiCjvwdXDAc1M9JX36MnQp0ia\u002BfQZrbgWEOf8KuGb7OYikARXYjrIXTrj7DjJHG/VJQyVcGYIvC8McwNFzkbUaCorf5mXIifx\u002BmWE1jMrWAwOoC34\u002BcYJuBu\u002Bk95SiEPkRmslZcZglVYrmcEPgqbGPSf4ui04F/XayHYbhl\u002BNYBOM46j4T6ciL2AOtrLtO\u002BDTp7BkH8IH4c9g\u002BZ9G6IPmkj4FX/ombqE\u002BLT3Q6zk1rBgLeO3jdtYyK9gPrcIh\u002B7NZhe8I8RuQp/msJszxhlbVQ\u002BBLrKpgopquzbXBNoDLUjbGUykJykyjzup\u002BxjfuoclXv8JBJj5ZhYVhatxkIiQpu2UsVFMYWLzDyQLG8iWLY9WOYd0aRu2U0LMiKA7lEDMFwWzXj0NBMmYHOwKepCeyW8Zv216Z9kWr\u002BlwEyPLT6PRgJebjuNi51s42TQIkzGuQep44dsVXCctUwugP9yDT3rex6stwzgUiiOshRHW6xE1GuEXfnQE2vFm6wj3fIAIbTXI4k7LQdXnVwIKIuoAX87hfKUokoV13FwfR4f5FE41vQSfZuB49DnPq8cMwZXVa5hgTKcy0yg5JabdHUfaGcWveavq4c38Iubsv1kSy\u002BvFTVxekQcmIT3ua\u002BiBrugIqkGWz2Hv6tfXf8fY2g0vtsQyZu0ZaqTkpOrhbLmIuOZHlx7lM0sUnILuU3TRHmhFzsnhFr3N2DsIaUHMsXymMv\u002BAe1jisijdG7hTuopfrIdSaq85vBOqxxnzdejic1r7afGxLoWqKEJ6ItPiU31MUoXZtinmdZ8k7/wlruV/xvfZDSmz95YXyzYsZw1HjQc8LYu0oeJWZCnVEud6YrTJiRTLkF/jp\u002BxVjLHyi/JR7heUhu1KgcHdRK8xx5UZWmXm5PNqkltqkE3gIUrudxQbxe3CHFIs0Br2BCUsiiYZT00sMUnzvOUOGlVZG0dImYElchxblcu4lR/FWG4GKdfrMrs4KCghl/8quWxHWTbZAnp9IVpkV5nmta/zBj/ibukSvn28yr3e/ffjYMd\u002BEhfqwjgf7OConZyGqCRxKVfED5a3/F8A/wKUXZtBUQWfiQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-11-21T02:49:06.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CertificationStepDefinition.cs",
+              "DocumentMoniker": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\StepDefinitions\\CertificationStepDefinition.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\CertificationStepDefinition.cs",
+              "ToolTip": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\StepDefinitions\\CertificationStepDefinition.cs",
+              "RelativeToolTip": "StepDefinitions\\CertificationStepDefinition.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T23:34:04.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CertificationTestData.json",
+              "DocumentMoniker": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\Data\\CertificationTestData.json",
+              "RelativeDocumentMoniker": "Data\\CertificationTestData.json",
+              "ToolTip": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\Data\\CertificationTestData.json",
+              "RelativeToolTip": "Data\\CertificationTestData.json",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAcwGUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T10:53:33.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestData.cs",
+              "DocumentMoniker": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\Data\\TestData.cs",
+              "RelativeDocumentMoniker": "Data\\TestData.cs",
+              "ToolTip": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\Data\\TestData.cs",
+              "RelativeToolTip": "Data\\TestData.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T02:19:12.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Education.cs",
+              "DocumentMoniker": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\Data\\Education.cs",
+              "RelativeDocumentMoniker": "Data\\Education.cs",
+              "ToolTip": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\Data\\Education.cs",
+              "RelativeToolTip": "Data\\Education.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowA8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T00:57:55.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JSONReader.cs",
+              "DocumentMoniker": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\Data\\JSONReader.cs",
+              "RelativeDocumentMoniker": "Data\\JSONReader.cs",
+              "ToolTip": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\Data\\JSONReader.cs",
+              "RelativeToolTip": "Data\\JSONReader.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T22:54:52.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CommonDriver.cs",
+              "DocumentMoniker": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\Drivers\\CommonDriver.cs",
+              "RelativeDocumentMoniker": "Drivers\\CommonDriver.cs",
+              "ToolTip": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\Drivers\\CommonDriver.cs",
+              "RelativeToolTip": "Drivers\\CommonDriver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:28:33.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\SpecflowPages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "SpecflowPages\\LoginPage.cs",
+              "ToolTip": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\SpecflowPages\\LoginPage.cs",
+              "RelativeToolTip": "SpecflowPages\\LoginPage.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAswCEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:06:10.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MarsQA.csproj",
+              "DocumentMoniker": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\MarsQA.csproj",
+              "RelativeDocumentMoniker": "MarsQA.csproj",
+              "ToolTip": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\MarsQA.csproj",
+              "RelativeToolTip": "MarsQA.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T22:55:09.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\Configuration\\Config.cs",
+              "RelativeDocumentMoniker": "Configuration\\Config.cs",
+              "ToolTip": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\Configuration\\Config.cs",
+              "RelativeToolTip": "Configuration\\Config.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAIBpwA0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:03:59.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T13:04:08.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ImplicitUsings.cs",
+              "DocumentMoniker": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\ImplicitUsings.cs",
+              "RelativeDocumentMoniker": "ImplicitUsings.cs",
+              "ToolTip": "C:\\IndustryConnect\\MarsQA_CompetitiveAutomation_EC\\MarsQA\\ImplicitUsings.cs",
+              "RelativeToolTip": "ImplicitUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T21:34:39.262Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
